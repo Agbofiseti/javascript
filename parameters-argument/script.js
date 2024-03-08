@@ -13,3 +13,17 @@ const student = (name, info) => {
 }
 
 student('Toyyib', 'cohort')
+
+
+
+// Exercise
+
+const student2 = (name, age, school, town, country) => {
+    console.log(`${name} is a ${age} years old of ${school} in ${town} state ${country} `)
+};
+
+student2('Tolu' , '5', 'Ads', 'Oyo', 'Nigeria')
+
+
+
+
